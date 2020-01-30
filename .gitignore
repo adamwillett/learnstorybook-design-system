@@ -22,5 +22,10 @@ npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 
+# Storybook Related:
 # static storybook site
 storybook-static
+
+# Static and build files
+storybook-static
+dist

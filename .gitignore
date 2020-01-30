@@ -29,3 +29,6 @@ storybook-static
 # Static and build files
 storybook-static
 dist
+
+# env variables
+.env
